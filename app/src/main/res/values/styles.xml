@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base MyApplication theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/dark_color</item>
+        <item name="colorPrimary">@color/main_color</item>
+        <item name="colorAccent">@color/gray_500</item>
+        <item name="android:windowBackground">@color/gray_50</item>
+        <item name="drawerArrowStyle">@style/DrawerTheme</item>
+    </style>
+
+    <style name="DrawerTheme" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+
+</resources>

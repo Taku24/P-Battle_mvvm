@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ARSample</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="title">ARApp(Sample)</string>
+    <string name="main_title">メイン</string>
+    <string name="list_title">リスト</string>
+    <string name="setting_title">設定</string>
+
+    <string name="content">形だけのものです。</string>
+    <string name="hogehoge">hogehoge</string>
+</resources>

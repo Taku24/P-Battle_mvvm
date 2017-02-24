@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //firstPointingColor
+    <!--<color name="pink">#395875</color>-->
+    <!--<color name="dark_pick">#0e161e</color>-->
+    <!--<color name="light_pick">#465664</color>-->
+
+    <color name="main_color">#8BC34A</color>
+    <color name="dark_color">#558B2F</color>
+    <color name="light_color">#9CCC65</color>
+
+    <!--Grey-->
+    <color name="gray_50">#FAFAFA</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_500">#9E9E9E</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_700">#616161</color>
+    <color name="gray_800">#424242</color>
+    <color name="gray_900">#212121</color>
+</resources>
